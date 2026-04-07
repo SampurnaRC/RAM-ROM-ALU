@@ -160,11 +160,11 @@ Both designs are tested using Verilog testbenches to verify:
 
 ### Single-Port RAM
 
-![Single Port RAM](sim/single_port_ram_waveform.png)
+![RAM](sim/Single_RAM_Waveform.png)
 
 ### Dual-Port RAM
 
-![Dual Port RAM](sim/dual_port_ram_waveform.png)
+![Dual Port RAM](sim/Dual_RAM_Waveform.png)
 
 ---
 
