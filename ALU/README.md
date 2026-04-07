@@ -138,7 +138,7 @@ The ALU is tested using a Verilog testbench that:
 
 ## Waveform
 
-![ALU Waveform](alu.png)
+![ALU Waveform](sim/alu.png)
 
 ---
 
